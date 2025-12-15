@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a student at Western Colorado University, who is working towards a degree in Computer Science with an emphasis in Applied Machine Learning. Always willing to learn more!
+
+
+# Featured Repositories
+https://github.com/Dyer-H/Video-Game-Rating-WebApp
